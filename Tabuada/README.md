@@ -1,4 +1,4 @@
-# Pesquisa de Opinião
+# Tabuada
 
 ## Exercício
 
@@ -44,7 +44,14 @@ Após iterar sobre todos os números de 6 a 10 e imprimir suas respectivas tabua
 **6. Fim do Programa:**
 
 O programa termina após executar todas as instruções dentro do método main.
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ## Autora
